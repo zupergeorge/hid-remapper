@@ -109,7 +109,7 @@ char const* string_desc_arr[] = {
 #else
     "Microsoft",  // 1: Manufacturer
 #endif
-    "Generic Device",  // 2: Product
+    "USB Hub",  // 2: Product
     "123456789012",       // 3: Serial Number
 };
 
